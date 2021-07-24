@@ -1,0 +1,4 @@
+True : object.conclusion = "NN"
+	object.tag == "1" : object.conclusion = "1"
+	object.tag == "." : object.conclusion = "."
+	object.tag == "2" : object.conclusion = "2"

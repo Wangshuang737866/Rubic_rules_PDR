@@ -1,0 +1,9 @@
+TAG4UNKN-WORD .
+TAG4UNKN-CAPITAL 2
+TAG4UNKN-NUM 1
+. .
+COmputer 2
+F(0)=0 1
+F(1)=1 1
+F(n)=F(n-1)+F(n-2) 3
+bad 2
